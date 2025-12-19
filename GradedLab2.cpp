@@ -13,6 +13,7 @@ public:
         month=0;
         year=0;
     }
+    
     void inputDate()
     {
         cout<<"Enter the DD/MM/YY ";
